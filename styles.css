@@ -907,3 +907,7 @@ textarea.form-control {
     grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   }
 }
+body {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
